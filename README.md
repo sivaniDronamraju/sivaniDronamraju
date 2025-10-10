@@ -104,6 +104,6 @@ Most days, you’ll find me deep in dashboards, data marts, or experimenting wit
 </p>
 
 <p align="center">
-  🌱 *Open to collaborations, AI-driven projects, and data storytelling opportunities!*  
+  🌱 Open to collaborations, AI-driven projects, and data storytelling opportunities!
 </p>
 

@@ -2,7 +2,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 I'm a Data Scientist passionate about turning raw data into practical AI solutions.  
 I recently completed my **Master’s in Data Science** at the **University of Maryland (UMD)**, where I built analytical pipelines and NLP dashboards.  
 Currently, I work as a **Junior Data Scientist** at **SQM SOFT INC**, a food industry startup, developing supplier-performance analytics with **MySQL, Python, and Streamlit**.  
@@ -11,7 +11,7 @@ I’m now exploring full-time opportunities in **AI and Data Science** to apply 
 
 ---
 
-### 🚀 What I’m Building & Exploring
+### What I’m Building & Exploring
 
 I’m a builder at heart. I love mixing data, AI, and a little curiosity to make things come alive.  
 Most days, you’ll find me deep in dashboards, data marts, or experimenting with AI agents.
@@ -28,9 +28,9 @@ Most days, you’ll find me deep in dashboards, data marts, or experimenting wit
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 🧑‍💻 Languages
+#### Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
@@ -38,7 +38,7 @@ Most days, you’ll find me deep in dashboards, data marts, or experimenting wit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-#### 🧠 Libraries & Frameworks
+#### Libraries & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
@@ -48,7 +48,7 @@ Most days, you’ll find me deep in dashboards, data marts, or experimenting wit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
 </p>
 
-#### ☁️ Cloud & Databases
+#### Cloud & Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
@@ -57,7 +57,7 @@ Most days, you’ll find me deep in dashboards, data marts, or experimenting wit
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
 </p>
 
-#### ⚙️ Tools & DevOps
+#### Tools & DevOps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -66,7 +66,7 @@ Most days, you’ll find me deep in dashboards, data marts, or experimenting wit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-#### 💡 AI & Data Tools
+#### AI & Data Tools
 <p align="left">
 
   <!-- AI & ML Tools -->

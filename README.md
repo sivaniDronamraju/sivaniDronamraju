@@ -5,7 +5,7 @@
 ### 🧠 About Me
 I'm a Data Scientist passionate about turning raw data into practical AI solutions.  
 I recently completed my **Master’s in Data Science** at the **University of Maryland (UMD)**, where I built analytical pipelines and NLP dashboards.  
-Currently, I work as a **Junior Data Scientist** at a food-industry startup, developing supplier-performance analytics with **MySQL, Python, and Streamlit**.  
+Currently, I work as a **Junior Data Scientist** at **SQM SOFT INC**, a food industry startup, developing supplier-performance analytics with **MySQL, Python, and Streamlit**.  
 I’m deeply interested in **Agentic AI, RAG systems, and Data Engineering**, focusing on how strong data foundations enable intelligent automation.  
 I’m now exploring full-time opportunities in **AI and Data Science** to apply my experience in data analytics and intelligent systems.
 
@@ -13,26 +13,18 @@ I’m now exploring full-time opportunities in **AI and Data Science** to apply 
 
 ### 🚀 What I’m Building & Exploring
 
-I’m a builder at heart — I love mixing data, AI, and a little curiosity to make things come alive.  
+I’m a builder at heart. I love mixing data, AI, and a little curiosity to make things come alive.  
 Most days, you’ll find me deep in dashboards, data marts, or experimenting with AI agents.
 
 **Right now:**
-- 🥫 I’m developing a **Supplier Performance Analytics app** for a food-industry startup — it turns 25 years of supplier data into live dashboards and predictive insights using MySQL, Python, and Streamlit.  
+- 🥫 I’m developing a **Supplier Performance Analytics app** for a food-industry startup, SQM SOFT INC, turning 25 years of supplier data into live dashboards and predictive insights using MySQL, Python, and Streamlit.  
 - 🛒 I’m wrapping up my **CLV Data Mart on Instacart**, where I’m using dbt and BigQuery to model 3.4M transactions and visualize customer value trends.  
-- 💬 I’m diving into **Agentic AI and GraphRAG**, trying to understand how intelligent systems can reason over data — inspired by Antonio Gulli’s *Agentic Design Patterns*.
+- 💬 I’m diving into **Agentic AI and GraphRAG**, trying to understand how intelligent systems can reason over data inspired by Antonio Gulli’s *Agentic Design Patterns*.
 
 **Previously:**
 - 📰 At the **Digital Engagement Lab (UMD)**, I built NLP pipelines that analyzed thousands of YouTube videos and news articles to uncover patterns in audience curiosity and sentiment.  
 - ☁️ I’ve deployed ML models on **AWS SageMaker and Lambda**, built automated churn alerts, and designed dashboards in QuickSight and Tableau.  
 - 🚇 I’ve also analyzed DC Metro ridership data, forecasted patterns, and built a few too many plots in Seaborn and Plotly along the way.  
-
-**Always learning:**
-- I’m currently obsessed with **LLM Ops** — tools like LangFuse, OpenDevin, and MCP fascinate me.  
-- I follow **DeepLearning.AI**, **Artificial Intelligence Made Simple**, and **The Batch** to keep up with what’s next.  
-- I’m compiling my learnings into a little side project called *Agentic AI Learning Notes* — coming soon.
-
-> 💡 Ask me about data storytelling, building intelligent dashboards, or why I think “solid data fundamentals” matter more than flashy AI models.
-
 
 ---
 
@@ -62,7 +54,7 @@ Most days, you’ll find me deep in dashboards, data marts, or experimenting wit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bigquery/bigquery-original.svg" alt="BigQuery" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
 </p>
 
 #### ⚙️ Tools & DevOps
@@ -107,10 +99,6 @@ Most days, you’ll find me deep in dashboards, data marts, or experimenting wit
 
   <a href="mailto:sivani.dronamraju1507@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://github.com/sivaniDronamraju" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
 </p>

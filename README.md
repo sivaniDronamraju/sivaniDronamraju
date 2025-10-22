@@ -13,8 +13,7 @@ I’m now exploring full-time opportunities in **AI and Data Science** to apply 
 
 ### What I’m Building & Exploring
 
-I’m a builder at heart. I love mixing data, AI, and a little curiosity to make things come alive.  
-Most days, you’ll find me deep in dashboards, data marts, or experimenting with AI agents.
+I love mixing data, AI, and a little curiosity. Most days, you’ll find me deep in dashboards, data marts, or experimenting with AI agents.
 
 **Right now:**
 - 🥫 I’m developing a **Supplier Performance Analytics app** for a food-industry startup, SQM SOFT INC, turning 25 years of supplier data into live dashboards and predictive insights using MySQL, Python, and Streamlit.  

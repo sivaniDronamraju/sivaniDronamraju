@@ -22,8 +22,8 @@ I love mixing data, AI, and a little curiosity. Most days, you’ll find me deep
 
 **Previously:**
 - 📰 At the **Digital Engagement Lab (UMD)**, I built NLP pipelines that analyzed thousands of YouTube videos and news articles to uncover patterns in audience curiosity and sentiment.  
-- ☁️ I’ve deployed ML models on **AWS SageMaker and Lambda**, built automated churn alerts, and designed dashboards in QuickSight and Tableau.  
-- 🚇 I’ve also analyzed DC Metro ridership data, forecasted patterns, and built a few too many plots in Seaborn and Plotly along the way.  
+- ☁️ I’ve deployed ML models on **AWS SageMaker**, built automated churn alerts, and designed dashboards in QuickSight and Tableau.  
+- 🚇 I’ve also analyzed data, forecasted patterns, and built a few too many plots in Seaborn and Plotly along the way.  
 
 ---
 

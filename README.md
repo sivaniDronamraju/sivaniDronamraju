@@ -1,29 +1,28 @@
-<h2 align="center">👋 Hi, I'm Sivani Dronamraju</h2>
+<h2 align="center"> Hi, I'm Sivani Dronamraju</h2>
 
 ---
 
 ### About Me
-I'm a Data Scientist passionate about turning raw data into practical AI solutions.  
-I recently completed my **Master’s in Data Science** at the **University of Maryland (UMD)**, where I built analytical pipelines and NLP dashboards.  
-Currently, I work as a **Junior Data Scientist** at **SQM SOFT INC**, a food industry startup, developing supplier-performance analytics with **MySQL, Python, and Streamlit**.  
-I’m deeply interested in **Agentic AI, RAG systems, and Data Engineering**, focusing on how strong data foundations enable intelligent automation.  
-I’m now exploring full-time opportunities in **AI and Data Science** to apply my experience in data analytics and intelligent systems.
+I'm a Data Scientist focused on turning messy data into **reliable AI systems people can actually trust**.  
+I recently completed my **Master’s in Data Science** at the **University of Maryland (UMD)**, where I built analytical pipelines and NLP-driven dashboards.  
+Currently, I work as a **Junior Data Scientist** at **SQM SOFT INC**, a food industry startup, where I develop supplier-performance analytics, **product clustering pipelines**, and predictive models using **MySQL and Python**.  
+I’m deeply interested in **Agentic AI, RAG systems, and Data Engineering**, especially how strong data foundations and evaluation discipline enable trustworthy intelligent automation.  
+I’m exploring full-time opportunities in **AI and Data Science**, with a focus on production-oriented analytics and applied ML systems.
 
 ---
 
 ### What I’m Building & Exploring
 
-I love mixing data, AI, and a little curiosity. Most days, you’ll find me deep in dashboards, data marts, or experimenting with AI agents.
+I like working close to real data and real constraints—systems that support decisions, not just dashboards.
 
 **Right now:**
-- 🥫 I’m developing a **Supplier Performance Analytics app** for a food-industry startup, SQM SOFT INC, turning 25 years of supplier data into live dashboards and predictive insights using MySQL, Python, and Streamlit.  
-- 🛒 I’m wrapping up my **CLV Data Mart on Instacart**, where I’m using dbt and BigQuery to model 3.4M transactions and visualize customer value trends.  
-- 💬 I’m diving into **Agentic AI and GraphRAG**, trying to understand how intelligent systems can reason over data inspired by Antonio Gulli’s *Agentic Design Patterns*.
+- At **SQM SOFT INC**, I work on supplier-performance and product intelligence problems where the data is inconsistent, under-documented, and business-critical. My work includes **product clustering pipelines**, predictive models, and decision-focused dashboards delivered through a **React frontend** backed by **Python services and a MySQL data layer**.
+- I’m building a **Cited Knowledge Assistant (RAG)** as a side project—designed to produce **citation-grounded answers**, explicitly **refuse unsupported questions**, and log evaluation metrics and audit trails to make failure modes visible.  
 
 **Previously:**
-- 📰 At the **Digital Engagement Lab (UMD)**, I built NLP pipelines that analyzed thousands of YouTube videos and news articles to uncover patterns in audience curiosity and sentiment.  
-- ☁️ I’ve deployed ML models on **AWS SageMaker**, built automated churn alerts, and designed dashboards in QuickSight and Tableau.  
-- 🚇 I’ve also analyzed data, forecasted patterns, and built a few too many plots in Seaborn and Plotly along the way.  
+- At the **Digital Engagement Lab (UMD)**, I built NLP pipelines that analyzed thousands of YouTube videos and news articles to uncover patterns in audience curiosity and sentiment.  
+- I’ve deployed ML models on **AWS SageMaker**, built automated churn alerts, and designed dashboards in **QuickSight** and **Tableau**.  
+- I’ve also analyzed data, forecasted patterns, and built a few too many plots in **Seaborn** and **Plotly** along the way.  
 
 ---
 
